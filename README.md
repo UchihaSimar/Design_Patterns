@@ -11,3 +11,4 @@ The specific implementation of the patterns may vary depending on many different
 ### 2. Structural Design Patterns
     This design pattern relates to the fact on how to assemble objects and create larger structures.
 ### 3. Behavioral Design Patterns
+    This design pattern relates to control communication and the assignment of responsibilities between different objects.
