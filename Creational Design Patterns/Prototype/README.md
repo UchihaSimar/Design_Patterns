@@ -1,0 +1,1 @@
+The Prototype pattern allows you to create an object using another object as a blueprint, inheriting its properties and methods.
