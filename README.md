@@ -6,7 +6,7 @@ The specific implementation of the patterns may vary depending on many different
 
 ## Types of Design Patterns
 
-- Creational Design Patterns
-    
-- Structural Design Patterns
-- Behavioral Design Patterns
+### 1. Creational Design Patterns
+    This design pattern relates to the fact how objects are created in memory.
+### 2. Structural Design Patterns
+### 3. Behavioral Design Patterns
