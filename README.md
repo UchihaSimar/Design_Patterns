@@ -9,4 +9,5 @@ The specific implementation of the patterns may vary depending on many different
 ### 1. Creational Design Patterns
     This design pattern relates to the fact how objects are created in memory.
 ### 2. Structural Design Patterns
+    This design pattern relates to the fact on how to assemble objects and create larger structures.
 ### 3. Behavioral Design Patterns

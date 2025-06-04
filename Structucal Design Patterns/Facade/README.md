@@ -1,0 +1,1 @@
+Provides a simpler interface to complex libraries or classes or feature functionalities. Come to think of it, lodash, map, reduce all of these are running on facade patterns, where the complexity of things are abstracted from the user.
