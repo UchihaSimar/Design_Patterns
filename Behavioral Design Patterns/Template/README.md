@@ -1,0 +1,1 @@
+Template Method is a behavioral design pattern that defines the skeleton of an algorithm in a base class while allowing subclasses to implement specific steps of the algorithm without changing its structure. It promotes code reusability and provides a way to enforce a consistent algorithm structure across different subclasses.

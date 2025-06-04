@@ -1,0 +1,1 @@
+The command method is a behavioral design pattern that encapsulates an incoming request into a standalone object. This object contains all the necessary information to perform a request including the method to call and parameters.
