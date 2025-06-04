@@ -1,0 +1,1 @@
+Composite Method is structural design pattern, it's used to compose objects into tree structures to represent part-whole hierarchies. This pattern treats both individual objects and compositions of objects it allow clients to work with complex structures of objects as if they were individual objects.

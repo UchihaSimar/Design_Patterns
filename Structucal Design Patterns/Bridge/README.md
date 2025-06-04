@@ -1,0 +1,1 @@
+Bridge Method is a structural design pattern,it provide to design separate an object's abstraction from its implementation so that the two can vary independently.

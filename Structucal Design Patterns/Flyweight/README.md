@@ -1,0 +1,1 @@
+Flyweight Method is a structural design pattern, it is used when we need to create a lot of objects of a class. Since every object consumes memory space that can be crucial for low memory devices, flyweight design pattern can be applied to reduce the load on memory by sharing objects. 
